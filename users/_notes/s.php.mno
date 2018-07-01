@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUrl" value="name:icNo;datatype:string,name:ext;datatype:string,name:expire;datatype:timestamp" />
+</info>

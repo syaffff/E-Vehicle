@@ -1,0 +1,53 @@
+nav ul {
+	display: inline;
+	margin:0;
+	padding:50;
+}
+nav ul li {
+	list-style-type:none;
+	float:left;
+	display:inline-block;
+	width:150px;
+	height:60px;
+	text-align:center;
+	line-height:55px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+}
+nav ul li a {
+	text-decoration:none;
+	color:#FFF;
+}
+
+nav ul li ul {
+	display: none;
+	position: absolute;
+}
+
+nav ul li ul li a {
+	display: block;
+	background: #000;
+}
+
+nav ul li:hover ul {
+	display: block;
+	position: absolute;
+	background: #000;
+}
+
+nav ul li: hover ul li {
+	display: block;
+}
+
+nav ul li:hover ul li a {
+	color: #FFF;
+	display: block;
+}
+
+nav ul li:hover {
+	background-color:rgb(242,242,242);
+}
+nav ul li:hover a {
+	display:block;
+	color:#000;
+}

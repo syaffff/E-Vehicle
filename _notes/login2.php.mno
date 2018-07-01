@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUser" value="name:icNo;datatype:string,name:userID;datatype:string,name:userPassword;datatype:string,name:userName;datatype:string,name:userResidential;datatype:string,name:userFaculty;datatype:string,name:userEduLevel;datatype:string,name:userAddress;datatype:string,name:userTel;datatype:string,name:userLicenseNo;datatype:int,name:userLicenseValidDate;datatype:date,name:userPosition;datatype:string,name:icFile;datatype:blob,name:licenseFile;datatype:blob,name:cardFile;datatype:blob" />
+	<infoitem key="UD_rsLect" value="name:icNo;datatype:string,name:userID;datatype:string,name:userName;datatype:string,name:userFaculty;datatype:string,name:userAddress;datatype:string,name:userTel;datatype:string,name:userEmail;datatype:string" />
+	<infoitem key="UD_rsStud" value="name:icNo;datatype:string,name:userID;datatype:string,name:userName;datatype:string,name:userFaculty;datatype:string,name:userEduLevel;datatype:string,name:userResidential;datatype:string,name:userAddress;datatype:string,name:userTel;datatype:string,name:userEmail;datatype:string" />
+	<infoitem key="UD_rsCont" value="name:icNo;datatype:string,name:userName;datatype:string,name:userAddress;datatype:string,name:userTel;datatype:string,name:userEmail;datatype:string" />
+</info>
